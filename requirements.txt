@@ -1,0 +1,6 @@
+gradio
+torch
+torchaudio
+librosa
+numpy
+matplotlib
